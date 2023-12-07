@@ -1,4 +1,13 @@
 #include<stdio.h>
+/*
+Q.8 Write a Program to print the below pattern using nested for loop.
+
+81
+81 82 
+81 82 83 
+81 82 83 84 
+81 82 83 84 85
+*/
 
 main()
 {  int i,j,k=81;
